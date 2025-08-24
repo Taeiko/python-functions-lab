@@ -150,3 +150,7 @@ def product(*args):
 
 print('Exercise 8:', product(2, 5, 5))
 print('ex8:', product(-1,4))
+
+
+
+#  i am absolutely NOT doing ex 9. i am so very SICK of math lol (will do it later)
